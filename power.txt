@@ -1,0 +1,11 @@
+...To calculate n^p using Recursion...
+
+Objective: To calculate pth power of n i.e. np
+.
+
+Base Case : If p == 0:
+return 1;
+
+We multiply the current number and recurse for power(n, p - 1)
+Time Complexity: O(N)
+Space Complexity: O(N)
