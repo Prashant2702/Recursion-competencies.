@@ -1,0 +1,4 @@
+...Check Whether the array is sorted or not...
+In this program we are going to check whether the given array is sorted or not.
+we can done this using the concept of recursions.
+In this we are calling a function multiple times to solve the program in a simpler manner.
