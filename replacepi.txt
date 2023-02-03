@@ -1,0 +1,15 @@
+Base Case: If the string is empty:
+return “”;
+If s[0] == ‘p’ and s[1] == ‘i’ :
+print(“3.14”)
+else:
+print(s[0])
+Time Complexity: O(N
+2
+)
+Space Complexity: O(N
+2
+)
+
+FollowUp: Try to do this in O(N) time and space. Hint: Pass by reference and
+indices.
