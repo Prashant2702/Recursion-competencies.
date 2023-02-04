@@ -1,0 +1,7 @@
+Print all the subsequences
+
+Objective: For each character, we have two choices, either we include it or not.
+Time Complexity: O(2
+n
+)
+Space Complexity: O(2^n).
