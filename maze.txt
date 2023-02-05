@@ -1,0 +1,5 @@
+CountPathMaze
+Given a 2D grid, find the number of ways to reach (n-1, n-1).
+You can go to (i,j) from (i-1,j) and (i,j-1).
+Time Complexity: O(2^n).
+Space Complexity: O(2^n).
